@@ -1,6 +1,5 @@
 (ns advent-of-code-2022.day6
-  (:require [advent-of-code-2022.core :as core]
-            [clojure.string :as str]))
+  (:require [advent-of-code-2022.core :as core]))
 
 
 (def input-file "resources/2022-day6.txt")
